@@ -1,0 +1,512 @@
+
+
+/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+
+/*.carousel-inner img {*/
+/*width: 100%; !* Set width to 100% *!*/
+/*margin: auto;*/
+/*min-height:200px;*/
+/*}*/
+
+/*!* Hide the carousel text when the screen is less than 600 pixels wide *!*/
+/*@media (max-width: 600px) {*/
+/*.carousel-caption {*/
+/*display: none;*/
+/*}*/
+/*}*/
+
+/* SignupModel.phpl.php*/
+
+.signup-form{
+    width: 350px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.signup-form input{
+    width: 100%;
+    height: 40px;
+    padding: 0px 5%;
+    margin-bottom: 10px;
+    border: none;
+    background-color: #faf2cc;
+    font-family: Arial;
+    font-size: 16px;
+    color: #111111;
+    line-height: 40px;
+}
+
+.signup-form button{
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #222;
+    font-family: Arial;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.signup-form button:hover{
+    background-color: #111;
+
+}
+
+/**/
+.login-form{
+    width: 300px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.login-form input{
+
+    width: 100%;
+    height: 40px;
+    padding: 0px 5%;
+    margin-bottom: 4px;
+    border: ridge;
+    background-color: #f3f3f3;
+    font-family: Arial;
+    font-size: 16px;
+    color: #111111;
+    line-height: 40px;
+}
+
+.login-form button{
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #cccccc;
+    font-family: Arial;
+    font-size: 16px;
+    color: #111111;
+    cursor: pointer;
+}
+
+.login-form button:hover{
+    background-color: #c0c0c0;
+
+}
+
+
+/**/
+header .nav-login {
+    float: right;
+    background-color: lightskyblue;
+}
+
+header .nav-login form {
+    float: left;
+    padding-top: 15px;
+    background-color: lightskyblue;
+}
+
+header .nav-login form input {
+    float: left;
+    width: 140px;
+    height: 30px;
+    padding: 0px 10px;
+    margin-right: 10px;
+    border: none;
+    background-color: #f3f3f3;
+    font-family: Arial;
+    font-size: 14px;
+    color: #111111;
+    line-height: 30px;
+}
+
+header .nav-login form button {
+    float: left;
+    width: 60px;
+    height: 30px;
+    margin-right: 10px;
+    border: none;
+    background-color: #f3f3f3;
+    font-family: Arial;
+    font-size: 14px;
+    color: #111111;
+    cursor: pointer;
+}
+
+header .nav-login form button:hover {
+    background-color: #f3f3f3;
+}
+
+header .nav-login a{
+    display: block;
+    width: 80px;
+    height: 60px;
+    border: none;
+    float: left;
+    background-color: lightskyblue;
+    font-family: "Arial Black";
+    font-size: 14px;
+    color: #111111;
+    line-height: 60px;
+}
+
+.main-wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+a {
+    text-decoration: none;
+}/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+
+/*.carousel-inner img {*/
+    /*width: 100%; !* Set width to 100% *!*/
+    /*margin: auto;*/
+    /*min-height:200px;*/
+/*}*/
+
+/*!* Hide the carousel text when the screen is less than 600 pixels wide *!*/
+/*@media (max-width: 600px) {*/
+    /*.carousel-caption {*/
+        /*display: none;*/
+    /*}*/
+/*}*/
+
+/* SignupModel.phpl.php*/
+
+.signup-form{
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.signup-form input{
+    width: 90%;
+    height: 40px;
+    padding: 0px 5%;
+    margin-bottom: 4px;
+    border: none;
+    background-color: #ffff99;
+    font-family: Arial;
+    font-size: 16px;
+    color: #111111;
+    line-height: 40px;
+}
+
+.signup-form button{
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: 40px;
+    border: none;
+    background-color: #222;
+    font-family: Arial;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.signup-form button:hover{
+    background-color: #111;
+
+}
+
+header .nav-login {
+    float: right;
+    background-color: lightskyblue;
+}
+
+header .nav-login form {
+    float: left;
+    padding-top: 15px;
+    background-color: lightskyblue;
+}
+
+header .nav-login form input {
+    float: left;
+    width: 140px;
+    height: 30px;
+    padding: 0px 10px;
+    margin-right: 10px;
+    border: none;
+    background-color: #f3f3f3;
+    font-family: Arial;
+    font-size: 14px;
+    color: #111111;
+    line-height: 30px;
+}
+
+header .nav-login form button {
+    float: left;
+    width: 60px;
+    height: 30px;
+    margin-right: 10px;
+    border: none;
+    background-color: #f3f3f3;
+    font-family: Arial;
+    font-size: 14px;
+    color: #111111;
+    cursor: pointer;
+}
+
+header .nav-login form button:hover {
+    background-color: #f3f3f3;
+}
+
+header .nav-login a{
+    display: block;
+    width: 80px;
+    height: 60px;
+    border: none;
+    float: left;
+    background-color: lightskyblue;
+    font-family: "Arial Black";
+    font-size: 14px;
+    color: #111111;
+    line-height: 60px;
+}
+
+.main-wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* For Loading Overlay by CodexWorld */
+.container{position: relative;}
+.loading-overlay{
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+    background: rgba(255,255,255,0.7);
+}
+.overlay-content {
+    position: absolute;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    top: 50%;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: #555;
+}
+
+.cart-remove-button button{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    height: 40px;
+    border-radius: 6px;
+    background-color: #222;
+    font-family: Arial;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.cart-remove-button button:hover{
+    background-color: #111;
+}
+
+.payment-container button{
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: 40px;
+    border-radius: 6px;
+    background-color: #5cb85c;
+    font-family: Arial;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.payment-container button:hover{
+    background-color: #449d44;
+}
+
+body{
+      font-family:Arial, Helvetica, sans-serif;
+      font-size:12px;
+  }
+.glyphicon {
+    margin-right:5px;
+}
+.thumbnail {
+    margin-bottom: 20px;
+    padding: 10px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    width : 100%;
+
+}
+
+.thumbnail img{
+
+    width: 200px;
+
+    height: 300px;
+
+}
+.item.list-group-item {
+    float: none;
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+.item.list-group-item:nth-of-type(odd):hover, .item.list-group-item:hover {
+    background: #428bca;
+}
+.item.list-group-item .list-group-image {
+    margin-right: 10px;
+}
+.item.list-group-item .thumbnail {
+    margin-bottom: 0px;
+}
+.item.list-group-item .caption {
+    padding: 9px 9px 0px 9px;
+}
+.item.list-group-item:nth-of-type(odd) {
+    background: #eeeeee;
+}
+.item.list-group-item:before, .item.list-group-item:after {
+    display: table; content:"";
+}
+.item.list-group-item img {
+    float: left;
+}
+.item.list-group-item:after {
+    clear: both;
+}
+.list-group-item-text {
+    margin: 0 0 11px;
+}
+/*Table boderless*/
+.borderless td, .borderless th {
+    border: none;
+}
+
+/*Product name*/
+.product {
+    padding-left: 50px;
+}
+
+
+/* Modal Header */
+.modal-header {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+}
+
+/* Modal Body */
+.modal-body {padding: 2px 16px;}
+
+/* Modal Footer */
+.modal-footer {
+    padding: 2px 16px;
+    background-color: #5cb85c;
+    color: white;
+}
+
+/* Modal Content */
+.modal-content {
+    position: relative;
+    background-color: #fefefe;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+    from {top: -300px; opacity: 0}
+    to {top: 0; opacity: 1}
+}
+
+@keyframes animatetop {
+    from {top: -300px; opacity: 0}
+    to {top: 0; opacity: 1}
+}
+
+.guest-payment-form{
+    width: 300px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.guest-payment-form input{
+    width: 100%;
+    height: 40px;
+    padding: 2px 5%;
+    margin-bottom: 10px;
+    border: none;
+    background-color: #ffff99;
+    font-family: Arial;
+    font-size: 16px;
+    color: #111111;
+    line-height: 40px;
+}
+
+.guest-payment-form button{
+    display: block;
+    margin: auto;
+    width: 30%;
+    height: 40px;
+    border: none;
+    background-color: #222;
+    font-family: Arial;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.guest-payment-form button:hover{
+    background-color: #111;
+
+}
+
+
+.payment-choose input{
+    float: right;
+    width: 50%;
+    height: 20px;
+    padding: 2px 5%;
+    margin-bottom: 2px;
+}
+
+
